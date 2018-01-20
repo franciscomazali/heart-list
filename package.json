@@ -1,0 +1,19 @@
+{
+  "name": "heart-list",
+  "version": "1.0.0",
+  "description": "send your love throught music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscomazali/heart-list.git"
+  },
+  "author": "wdbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciscomazali/heart-list/issues"
+  },
+  "homepage": "https://github.com/franciscomazali/heart-list#readme"
+}
